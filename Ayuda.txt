@@ -1,0 +1,22 @@
+Bienvenido al programa de facturas de Refriauto
+
+Este paquete contiene 3 carpetas:
+
+-"Ejecutable" contiene los archivos necesarios para iniciar el programa.
+-"refriauto" contiene los archivos necesarios para modificar el programa.
+-"Facturas" contiene los archivos para hacer la lectura de datos.
+
+Para iniciar el programa: 
+ejecute el archivo "refriauto" que se encuentra dentro
+de la carpeta llamada "Ejecutable".
+
+
+
+**Nota: La aplicación requiere que el ordenador cuente con la instalación de
+.NET Framework 4.5.2 para su correcto funcionamiento**
+
+El instalador lo encuentra en: 
+
+https://www.microsoft.com/es-mx/download/confirmation.aspx?id=42642 
+
+
