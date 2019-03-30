@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="cmiranda_testsDataSet" targetNamespace="http://tempuri.org/cmiranda_testsDataSet3.xsd" xmlns:mstns="http://tempuri.org/cmiranda_testsDataSet3.xsd" xmlns="http://tempuri.org/cmiranda_testsDataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="cmiranda_testsConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="cmiranda_testsConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.refriauto.Properties.Settings.GlobalReference.Default.cmiranda_testsConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="faltantesTableAdapter" GeneratorDataComponentClassName="faltantesTableAdapter" Name="faltantes" UserDataComponentName="faltantesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cmiranda_testsConnectionString (Settings)" DbObjectName="cmiranda_tests.faltantes" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT folio_faltante FROM cmiranda_tests.faltantes</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="cmiranda_testsDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="cmiranda_testsDataSet" msprop:Generator_UserDSName="cmiranda_testsDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="faltantes" msprop:Generator_TableClassName="faltantesDataTable" msprop:Generator_TableVarName="tablefaltantes" msprop:Generator_TablePropName="faltantes" msprop:Generator_RowDeletingName="faltantesRowDeleting" msprop:Generator_RowChangingName="faltantesRowChanging" msprop:Generator_RowEvHandlerName="faltantesRowChangeEventHandler" msprop:Generator_RowDeletedName="faltantesRowDeleted" msprop:Generator_UserTableName="faltantes" msprop:Generator_RowChangedName="faltantesRowChanged" msprop:Generator_RowEvArgName="faltantesRowChangeEvent" msprop:Generator_RowClassName="faltantesRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

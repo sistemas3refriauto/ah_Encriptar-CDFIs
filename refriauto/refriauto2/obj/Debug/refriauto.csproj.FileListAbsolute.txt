@@ -1,0 +1,70 @@
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\bin\Debug\refriauto.exe.config
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\bin\Debug\refriauto.exe
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\bin\Debug\refriauto.pdb
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\bin\Debug\MySql.Data.dll
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\obj\Debug\refriauto.menu.resources
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\obj\Debug\refriauto.agregar.resources
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\obj\Debug\refriauto.Properties.Resources.resources
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\obj\Debug\refriauto.csproj.GenerateResource.Cache
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\obj\Debug\refriauto.csproj.CoreCompileInputs.cache
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\obj\Debug\refriauto.exe
+C:\Users\usuario\documents\visual studio 2017\Projects\refriauto\refriauto\obj\Debug\refriauto.pdb
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\refriauto\refriauto\obj\Debug\refriauto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\refriauto\refriauto\bin\Debug\Google.Protobuf.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\refriauto\refriauto\bin\Debug\MySql.Data.xml
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\bin\Debug\refriauto.exe.config
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.exe
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.pdb
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\bin\Debug\refriauto.exe
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\bin\Debug\refriauto.pdb
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\bin\Debug\Google.Protobuf.dll
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\bin\Debug\MySql.Data.xml
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.menu.resources
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.agregar.resources
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.Properties.Resources.resources
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.csproj.GenerateResource.Cache
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.Errores.resources
+C:\Users\Hilda\Downloads\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.Validar.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\bin\Debug\refriauto.exe.config
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.exe
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.pdb
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\bin\Debug\refriauto.exe
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\bin\Debug\refriauto.pdb
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\bin\Debug\MySql.Data.xml
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.Errores.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.Validar.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.menu.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.agregar.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.Properties.Resources.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\obj\Debug\refriauto.csproj.GenerateResource.Cache
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto\refriauto\refriauto\bin\Debug\MySql.Data.dll
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\bin\Debug\refriauto.exe.config
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\obj\Debug\refriauto.exe
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\obj\Debug\refriauto.pdb
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\bin\Debug\refriauto.exe
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\bin\Debug\refriauto.pdb
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\bin\Debug\MySql.Data.dll
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\bin\Debug\MySql.Data.xml
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\obj\Debug\refriauto.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\obj\Debug\refriauto.Errores.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\obj\Debug\refriauto.Validar.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\obj\Debug\refriauto.menu.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\obj\Debug\refriauto.agregar.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\obj\Debug\refriauto.Properties.Resources.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - copia ultimo\refriauto\refriauto\obj\Debug\refriauto.csproj.GenerateResource.Cache
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\bin\Debug\refriauto.exe.config
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\obj\Debug\refriauto.exe
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\obj\Debug\refriauto.pdb
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\bin\Debug\refriauto.exe
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\bin\Debug\refriauto.pdb
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\bin\Debug\MySql.Data.dll
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\bin\Debug\MySql.Data.xml
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\obj\Debug\refriauto.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\obj\Debug\refriauto.Errores.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\obj\Debug\refriauto.Validar.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\obj\Debug\refriauto.menu.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\obj\Debug\refriauto.agregar.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\obj\Debug\refriauto.Properties.Resources.resources
+C:\Users\Hilda\Documents\Desarrollo NET\Proyecto_Refriauto - encriptar\refriauto\refriauto\obj\Debug\refriauto.csproj.GenerateResource.Cache
